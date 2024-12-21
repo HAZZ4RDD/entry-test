@@ -1,0 +1,85 @@
+.login-page,
+.login-page * {
+  box-sizing: border-box;
+}
+.login-page {
+  background: linear-gradient(
+    117.56deg,
+    rgba(150, 152, 193, 1) 0%,
+    rgba(209, 200, 215, 1) 100%
+  );
+  height: 720px;
+  position: relative;
+  overflow: hidden;
+}
+.poduim-1 {
+  width: 882px;
+  height: 882px;
+  position: absolute;
+  left: -270px;
+  top: 299px;
+  object-fit: cover;
+}
+.l-3-aybat-dl-7-alwa-1 {
+  width: 1280px;
+  height: 720px;
+  position: absolute;
+  left: calc(50% - 681px);
+  top: -43px;
+  object-fit: cover;
+}
+.l-3-aybat-dl-7-alwa-2 {
+  width: 1280px;
+  height: 720px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-3 {
+  background: rgba(212, 212, 212, 0.1);
+  border-radius: 48px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 626px;
+  height: 374px;
+  position: absolute;
+  left: 347px;
+  top: 173px;
+  box-shadow: 0px 0px 86.4px -9px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(7.65px);
+}
+.home {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 29px;
+  letter-spacing: 0.17em;
+  font-weight: 400;
+  position: absolute;
+  left: 272px;
+  top: 28px;
+}
+.gift {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 29px;
+  letter-spacing: 0.17em;
+  font-weight: 400;
+  position: absolute;
+  left: 954px;
+  top: 28px;
+}
+.entry-test {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 525px;
+  top: 194px;
+}
